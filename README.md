@@ -1,5 +1,5 @@
 # dseptic
-Simple script to suppress globally suppress vulnerabilities in Dependency Track
+Simple script to globally suppress vulnerabilities in Dependency Track
 
 Fill two variables and you good to go
 
